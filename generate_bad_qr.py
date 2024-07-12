@@ -1,7 +1,7 @@
 import qrcode
 
 # Use the customized Bitly short URL
-short_url = "https://bit.ly/secure-redirect"
+short_url = "https://bit.ly/valtech-secure-redirect"
 qr = qrcode.QRCode(
     version=1,
     error_correction=qrcode.constants.ERROR_CORRECT_L,
